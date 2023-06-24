@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Shadanjaradat
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on more courses regarding programming
-- 📫 How to reach me shadanjaradat@hotmail.com
+Hello! Weclome to my page! 
 
-<!---
-Shadanjaradat/Shadanjaradat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm Shadan, a Robotics Engineer and overall tech enthusiast!
+
+Open to collaborating and working on related projects :) 
+
+
+You can reach me at shadanjaradat@hotmail.com 
